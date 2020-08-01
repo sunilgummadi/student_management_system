@@ -1,1 +1,2 @@
-# student_management_system
+# StudentManagementSystem-SpringMvcHiibernateIntegration
+ SpringMvc using hibernate integration and spring Data
